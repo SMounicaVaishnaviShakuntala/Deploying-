@@ -1,7 +1,0 @@
-streamlit
-torch
-torchvision
-Pillow
-numpy
-requests
-streamlit-image-comparison
